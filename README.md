@@ -1,2 +1,2 @@
-# medium-clap-component-pattern
-simple medium clap feature using the concept of advanced react patterns
+# React-useful-patterns
+still in development
